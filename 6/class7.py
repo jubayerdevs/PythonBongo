@@ -93,15 +93,19 @@
 # print(greetings.lower().find("friend"))
 # print('friend' in greetings)
 
-words ="hello, there, my, friend"
-print(words.split(","))
-print(" ".join(words))
+# words ="hello, there, my, friend"
+# print(words.split(","))
+# print(" ".join(words))
 
-age = 14
-name = 'Nure'
-print(f"Hello, my name is {name}, my age is {age}")
+# age = 14
+# name = 'Nure'
+# print(f"Hello, my name is {name}, my age is {age}")
 
-#reverse
-name ='dog'
-x=name[::-1]
-print(x)
+# #reverse
+# name ='dog'
+# x=name[::-1]
+# print(x)
+
+
+print("Sorry \n"*100)
+
