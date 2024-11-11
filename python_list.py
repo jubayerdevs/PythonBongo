@@ -445,9 +445,14 @@
 # print(list1)
 
 
-list1 = ["a", "b" , "c"]
-list2 = [1, 2, 3]
+# list1 = ["a", "b" , "c"]
+# list2 = [1, 2, 3]
 
+<<<<<<< HEAD
 list1.extend(list2)
 print(list1)
 >>>>>>> 657e2788b26a3df40cebc51677301887003e8f72
+=======
+# list1.extend(list2)
+# print(list1)
+>>>>>>> 1d1871b (commit test)
