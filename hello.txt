@@ -1,5 +1,9 @@
 
 ///////BEGIN READ TEXT//////////////
-with open("hello.txt") as file:
+with open("hello.txt") as file 4545:
     for line in file:
         print(line.strip())
+        test
+        test 1234
+
+        In this tutorial, learn how to read files with Python. We'll teach you file modes in Python and how to read text, CSV, and JSON files.

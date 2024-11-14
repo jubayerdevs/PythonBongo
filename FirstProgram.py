@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 1d1871b (commit test)
+=======
+>>>>>>> 6e7bb9b (commit conflict)
 name = "Shradha"
 age = 23
 price = 25.99
@@ -37,6 +40,7 @@ old = False
 a = None
 print(type(old))
 print(type(a))
+<<<<<<< HEAD
 =======
 >>>>>>> 1d1871b (commit test)
 
@@ -51,3 +55,9 @@ print(type(True))
 =======
 # Datatypes: integers, String, Fload, Boolean, None
 >>>>>>> 1d1871b (commit test)
+=======
+
+
+
+>>>>>>> 657e2788b26a3df40cebc51677301887003e8f72
+>>>>>>> 6e7bb9b (commit conflict)
