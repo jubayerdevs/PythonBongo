@@ -7,3 +7,12 @@ with open("hello.txt") as file 4545:
         test 1234
 
         In this tutorial, learn how to read files with Python. We'll teach you file modes in Python and how to read text, CSV, and JSON files.
+GIT
+--- git pull --rebase origin main
+---- $ git remote -v
+---- $ git status
+--- $ git remote -v
+--- $ git push origin main  --force
+--- $ git fetch origin main
+-- $ git status
+--- $ git push --force origin main
