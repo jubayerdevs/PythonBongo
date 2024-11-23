@@ -1,0 +1,5 @@
+Push the specified branch to , along with all of the necessary
+ commits and internal objects. This creates a local branch in the destination 
+ repository. To prevent you from overwriting commits, Git won’t let you push
+  when it results 
+in a non-fast-forward merge in the destination repository.
